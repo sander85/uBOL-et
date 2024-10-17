@@ -107,6 +107,7 @@ kava.ee##IFRAME[id="frmleftcolads"]
 kava.ee##IFRAME[src^="http://www.facebook.com/plugins/login_button.php"]
 kava.ee##iframe[src^="https://www.cvkeskus.ee"]
 keskus.ee###bannertop
+kinnisvara24.ee##button.scrolling-container
 kroonika.ee##div.ads_right_column_adjust
 kuldnebors.ee###auto24
 kuldnebors.ee##DIV[id*="dBannerLeft"]
