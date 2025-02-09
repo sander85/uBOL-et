@@ -65,6 +65,7 @@ delfi.ee,epl.ee##.adblock-notice
 delfi.ee,~tv.delfi.ee###right
 delfi.ee##.ad-block-layer-content
 delfi.ee##.ad-block-layer
+||delfi.ee^$removeparam=dsrc
 director.ee##div[itemtype="https://schema.org/WPAdBlock"]
 e-autoline.com##OBJECT[width="200"]
 e-autoline.com##OBJECT[width="468"]
