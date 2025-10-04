@@ -202,6 +202,7 @@ postimees.ee#$#.structured-content__group--left{max-width:unset !important}
 postimees.ee#$#[itemprop="articleBody"]{max-width:unset !important}
 postimees.ee#?#.flex--direction-column.flex.layout--right:-abp-has(> .flex--equal-width.aside--ad)
 postimees.ee,rate.ee##DIV.top_banner
+||v.postimees.ee/reklaam/*
 rate.ee##DIV.ban_bottom
 reporter.postimees.ee##.dfp_ad
 rutracker.org###bn-bot-wrap
