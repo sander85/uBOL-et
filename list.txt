@@ -191,7 +191,7 @@ postimees.ee##.tp-modal
 postimees.ee##article.article:remove-class(cookie-paywall-visible)
 postimees.ee##aside:contains(Sisuturundus)
 postimees.ee##DIV.reisiguruBlockContents
-postimees.ee##div:has(>div>div>div>article.list-article--commercial)
+postimees.ee##.structured-content__group:has(.list-article--commercial)
 postimees.ee##html,body:style(overflow:auto !important)
 postimees.ee##iframe[src*="cron/ostakvsoov"]
 postimees.ee##section.gameFriik
